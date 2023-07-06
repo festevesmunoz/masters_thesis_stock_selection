@@ -1,4 +1,4 @@
-# Master's in Big Data Analitycs: *"Stocks selection: a medium/long-term approach using Machine Learning techniques"*
+# *"Stocks selection: a medium/long-term approach using Machine Learning techniques"*
 
 ## SUMMARY
 
